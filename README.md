@@ -361,41 +361,4 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 5. **Ramesh, A., et al. (2014).** "Learning latent engagement patterns of students in online courses." *AAAI Conference on Artificial Intelligence*.
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👥 Authors
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
----
-
-## 🙏 Acknowledgments
-
-- Inspired by Coursera's mission of universal access to world-class education
-- Dataset generation methodology based on published MOOC research
-- Built with scikit-learn, pandas, and the Python ML ecosystem
-
----
-
-## 📞 Contact
-
-For questions or collaboration opportunities:
-- Open an issue on GitHub
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-
----
-
-**⭐ Star this repository if you find it helpful!**
-
----
-
-*Built with ❤️ for educational equity and social impact.*
